@@ -30,10 +30,6 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
-
-
 }
-
-
 
 class Employees (var firstname : String, var lastname :String, var address : String)
