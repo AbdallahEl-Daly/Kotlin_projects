@@ -24,6 +24,5 @@ class MainActivity : AppCompatActivity() {
             intent.putExtra("firstname", firstName)
             startActivity(intent)
         }
-
     }
 }
