@@ -28,6 +28,6 @@ class MainActivity : AppCompatActivity() {
             textView.text = personArray[position]
 
             Toast.makeText(applicationContext, "My Name is: " +  personArray[position], Toast.LENGTH_LONG).show()
-    }
+        }
     }
 }
